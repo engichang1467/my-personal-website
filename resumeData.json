@@ -1,0 +1,213 @@
+{
+    "main": {
+      "name":"Michael Chang",
+      "occupation":"aspiring software engineer",
+      "description":"I'm very passionate about Python, C++, JavaScript, NodeJS, Web and App development, working out, work-life balance, self-improvements, and continuous learning.",
+      "image":"profilepic.jpg",
+      "bio":"As a Computer Science student, I'm open to internship and Coop, and I hope I can apply what I learned from school into my future career. I also love to challenge myself to learn new technologies as I'm moving forward.",
+      "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+      "email": "mchang0926@gmail.com",
+      "phone": "mca183@sfu.ca (school)",
+      "address":{
+        "city":"Richmond",
+        "state":"BC",
+        "zip": "Canada"
+      },
+      "website": "https://www.linkedin.com/in/michael-chang-438349157/",
+      "resumedownload":"https://www.linkedin.com/in/michael-chang-438349157/",
+      "social":[
+        {
+          "name":"twitter",
+          "url":"https://twitter.com/mikeychanging",
+          "className":"fa fa-twitter"
+        },
+        {
+          "name":"linkedin",
+          "url":"https://www.linkedin.com/in/michael-chang-438349157/",
+          "className":"fa fa-linkedin"
+        },
+        {
+          "name":"instagram",
+          "url":"https://www.instagram.com/michael.changman/",
+          "className":"fa fa-instagram"
+        },
+        {
+          "name":"stack-overflow",
+          "url":"https://stackoverflow.com/users/12212679/michael-chang?tab=profile",
+          "className":"fa fa-stack-overflow"
+        },
+        {
+          "name":"github",
+          "url":"https://github.com/engichang1467",
+          "className":"fa fa-github"
+        }
+      ]
+    },
+    "resume":{
+      "skillmessage":" ",
+      "education":[
+        {
+          "school":"Simon Fraser University",
+          "degree":"Bachelor of Computer Science",
+          "graduated":"June 2022"        
+        }
+      ],
+      "work":[
+        {
+          "company":"Philips Electronic Ltd",
+          "title":"Software Engineering Intern",
+          "years":"September 2020 - Present",
+          "description":["Part of the Vancouver based Senior Living Software development team.", 
+                         "Develop powerful backend APIs in NodeJS, micro services and analytics to serve cutting edge features and data to the end user.",
+                         "Build sleek, responsive UIs on both the web and mobile in Angular."]
+        },
+        {
+          "company":"BC Cancer Research Centre",
+          "title":"Software Engineering Intern",
+          "years":"May 2019 - August 2019",
+          "description":["Collaborated with researchers to expore and develop better tools for them to optimize their research.",
+                         "Developed a web application with Flask to help researchers to organize their patient's data.",
+                         "Created a database for storage and retrieval of data from biodistribution studies used in the development of radiopharmaceuticals."]
+        },
+        {
+          "company":"MOCA Autobody Estimator",
+          "title":"Software Developer (Volunteer)",
+          "years":"June 2018 - November 2018",
+          "description":["Created and maintained business' website",
+                         "Investigated the auto body shop business need to seek solutions for providing better customer expeorience on the website.",
+                         "Developed a mobile application version of the website for later development using React Native for frontend development, and Django framework for the backend."]
+        }
+      ],
+      "skills":[
+        {
+          "name":"Git",
+          "level":"60%"
+        },
+        {
+          "name":"Python",
+          "level":"80%"
+        },
+        {
+            "name":"JavaScript",
+            "level":"75%"
+        },
+        {
+            "name":"TypeScript",
+            "level":"65%"
+        },
+        {
+          "name":"ReactJs",
+          "level":"50%"
+        },
+        {
+          "name":"NodeJS",
+          "level":"75%"
+        },
+        {
+          "name":"HTML5/CSS",
+          "level":"80%"
+        },
+        {
+          "name":"Angular",
+          "level":"50%"
+        },
+        {
+          "name":"MySQL",
+          "level":"70%"
+        },
+        {
+          "name":"MongoDB",
+          "level":"65%"
+        }
+      ]
+    },
+    "portfolio":{
+      "projects": [
+        {
+          "title":"Woofer",
+          "category":"Twitter clone for dogs 🐶",
+          "image":"woofer.png",
+          "url":"https://github.com/engichang1467/Woofer"
+        },
+        {
+            "title":"Nonogram Game",
+            "category":"A web application that lets you play nonogram.",
+            "image":"nonogram.png",
+            "url":"https://github.com/engichang1467/NonogramGame"
+        },
+        {
+            "title":"3D Game Simulator",
+            "category":"3D game simulato that move around the game, and can be play in MacOS",
+            "image":"3dgamesim.png",
+            "url":"https://github.com/engichang1467/3D-Game-Simulator"
+        },
+        {
+          "title":"Sketchy",
+          "category":"Multiplayer drawing and guessing game",
+          "image":"sketchy.png",
+          "url":"https://github.com/engichang1467/Sketchy"
+        },
+        {
+          "title":"React Workout App",
+          "category":"A workout to-do list app",
+          "image":"ReactWorkoutApp.png",
+          "url":"https://github.com/engichang1467/React-Native-Workout-List-App"
+        },
+        {
+          "title":"Course Navigator",
+          "category":"Discord bot that shows your course information",
+          "image":"CourseNav.png",
+          "url":"https://github.com/engichang1467/CourseNavigator"
+        },
+        {
+          "title":"Back Talker",
+          "category":"A virtual assistant that is developed in Python and Slack & Discord API",
+          "image":"backtalker.png",
+          "url":"https://github.com/BackTalker/BackTalkerDiscord"
+        },
+        {
+            "title":"Word Pictionary List",
+            "category":"A package that will be useful if you're creating a word game like pictionary.",
+            "image":"word-pictionary-list.png",
+            "url":"https://github.com/engichang1467/3D-Game-Simulator"
+        },
+        {
+            "title":"Database Display",
+            "category":"A web application that display data from your database",
+            "image":"dbdisplay.png",
+            "url":"https://github.com/engichang1467/DatabaseDisplay"
+    
+        },
+        {
+            "title":"Tetris Game Web",
+            "category":"A tetris game that can be played on browser.",
+            "image":"tetris.png",
+            "url":"https://github.com/engichang1467/TetrisGame"
+        },
+        {
+          "title":"Tipper App",
+          "category":"An IOS app that can calculate your tips when your on the go.",
+          "image":"tipper.png",
+          "url":"https://github.com/engichang1467/Tipper"
+        },
+        {
+          "title":"Pomo Lofi App",
+          "category":"A pomodoro app written in Swift that helps you practice pomodoro technique with your favourite lofi music.",
+          "image":"pomolofi.png",
+          "url":"https://github.com/engichang1467/PomoLofi"
+        }
+      ]
+    },
+    "testimonials":{
+      "testimonials":[
+        {
+          "text":"When you think you lost everything you really haven't. The opportunity to rebuild show me that you can take risk, that failure is not final, dust yourself off, and get going again.",
+          "user":"Dara Khosrowshahi"
+        },
+        {
+          "text":"If you give your mind something meaningful to do throughout all your waking hours, you'll end the day more fulfilled, and begin the next one more relaxed, than if you instead allow your mind to bathe for hours in semiconscious and unstructured web surfing",
+          "user":"Cal Newport"
+        }
+      ]
+    }
+  }
